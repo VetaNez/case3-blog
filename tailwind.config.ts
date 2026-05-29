@@ -1,3 +1,6 @@
+
+
+// Modified for Synergy educational practice
 //edit tailwind.config.ts
 import type { Config } from 'tailwindcss'
 
